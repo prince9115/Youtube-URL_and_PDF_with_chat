@@ -3,6 +3,7 @@ langchain>=0.1.0
 langchain_community>=0.0.10
 langchain_groq>=0.0.1
 langchain_cohere>=0.1.0
+cohere==5.15.0
 langchain-text-splitters>=0.0.1
 pypdf>=4.0.0
 pymupdf>=1.23.0
